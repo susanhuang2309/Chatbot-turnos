@@ -62,8 +62,7 @@ Almacenamiento de turnos en Supabase.
 Funcionamiento desde diferentes dispositivos y conexiones.
 
 # Integrantes
-Susan Huang
-Gala Monteverde
+Susan Huang y Gala Monteverde
 
 # Futuras mejoras
 Panel administrativo.
